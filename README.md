@@ -69,3 +69,6 @@ them in an hour.
 - The terrain is not steep or complex
 - The meteorology may be considered uniform spatially
 - There are few periods of calm or light winds
+
+Source : https://personalpages.manchester.ac.uk/staff/paul.connolly/teaching/practicals/gaussian_plume_modelling.html
+
