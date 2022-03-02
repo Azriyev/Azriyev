@@ -1,7 +1,7 @@
-# Atmospheric Dispersion Modelling
+# Coding Development and Determination of Air Quality Using The Gaussian-Plume Mathematics Model Approach or Atmospheric Dispersion Modelling For The Prediction of Aerial Microbes & SARS-COV2 Distribution in Health Laboratory Building Environment
 
 ### Overview
-Contaminants discharged into the air are transported over long distances by large-scale air-flows and dispersed by small-scale air-flows or turbulence, which mix contaminants with clean air. This dispersion by the wind is a very complex process due to the presence of different-sized eddies in the atmospheric flow. Due to this complexity, there is no complete theory that establishes the relationship between ambient conditions of air pollutants and the causative
+Contaminants ( The asumption that is aerial microbes and viral particles ) discharged into the air are transported over long distances by large-scale air-flows and dispersed by small-scale air-flows or turbulence, which mix contaminants with clean air. This dispersion by the wind is a very complex process due to the presence of different-sized eddies in the atmospheric flow. Due to this complexity, there is no complete theory that establishes the relationship between ambient conditions of air pollutants and the causative
 meteorological factors and processes.
 
 So, to express all these to the extent possible, we make models (simplified picture of reality).
@@ -69,3 +69,6 @@ them in an hour.
 - The terrain is not steep or complex
 - The meteorology may be considered uniform spatially
 - There are few periods of calm or light winds
+
+Source : https://personalpages.manchester.ac.uk/staff/paul.connolly/teaching/practicals/gaussian_plume_modelling.html
+
